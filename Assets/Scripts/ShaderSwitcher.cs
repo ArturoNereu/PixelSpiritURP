@@ -12,7 +12,7 @@ public class ShaderSwitcher : MonoBehaviour
     {
         m_CanvasObjectMaterial = GetComponent<Renderer>().material;
 
-        //SwitchToShaderGraph("Shader Graphs/01_Justice");
+        //SwitchToShaderGraph("Shader Graphs/02_Strength");
     }
 
     void SwitchToShader(string shaderName)
