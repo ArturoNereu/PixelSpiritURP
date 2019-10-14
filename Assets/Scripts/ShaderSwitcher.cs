@@ -14,7 +14,7 @@ public class ShaderSwitcher : MonoBehaviour
 
         //SwitchToShaderGraph("Shader Graphs/02_Strength");
     }
-
+    
     void SwitchToShader(string shaderName)
     {
 
