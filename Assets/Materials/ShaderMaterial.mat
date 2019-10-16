@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 98c7df747ec2e284dbd476da51b51ef0,
+  m_Shader: {fileID: -6465566751694194690, guid: c7fbc5768fbc7f6449f7cbca52f244a3,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -62,7 +62,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_247AD70E: 3.1416
     - Vector1_8FE1430C: 0.25
+    - Vector1_B5D250B0: 0.5
+    - Vector1_D4427E8: 3.1416
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -85,7 +88,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_140EC057: {r: 0.9150943, g: 0.09064613, b: 0.09064613, a: 0}
+    - Color_140EC057: {r: 0.5310609, g: 0.5738928, b: 0.735849, a: 0}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
