@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 7a40df9284b59554d8ee834306787b6a,
+  m_Shader: {fileID: -6465566751694194690, guid: d1c398bd4708dd8499a797dd72cf356f,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -89,6 +89,15 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_140EC057: {r: 0.5310609, g: 0.5738928, b: 0.735849, a: 0}
+    - Color_26E10847: {r: 1, g: 0.2631579, b: 0, a: 0}
+    - Color_5AC7F425: {r: 1, g: 0.2631579, b: 0, a: 0}
+    - Color_604A576F: {r: 1, g: 1, b: 1, a: 0}
+    - Color_7AB9B4D: {r: 1, g: 1, b: 1, a: 0}
+    - Color_816F96AB: {r: 1, g: 1, b: 1, a: 0}
+    - Color_95FE6E9E: {r: 1, g: 0.2631579, b: 0, a: 0}
+    - Color_A8CACE02: {r: 1, g: 1, b: 1, a: 0}
+    - Color_B09C2F0B: {r: 1, g: 1, b: 1, a: 0}
+    - Color_E96D855E: {r: 1, g: 0.2631579, b: 0, a: 0}
     - Vector2_F7B70259: {r: 1, g: 0.05, b: 0, a: 0}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
