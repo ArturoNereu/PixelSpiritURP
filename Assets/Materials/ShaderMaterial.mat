@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 0a47848ad35d85641b698aa7cf456dd6,
+  m_Shader: {fileID: -6465566751694194690, guid: b0dafbe503994954ebf16ad8dd0f3aa2,
     type: 3}
   m_ShaderKeywords: _WINDQUALITY_NONE
   m_LightmapFlags: 4
@@ -72,6 +72,7 @@ Material:
     m_Floats:
     - Vector1_17FFDFD6: 0
     - Vector1_247AD70E: 3.1416
+    - Vector1_7272349B: 0
     - Vector1_8FE1430C: 0.5
     - Vector1_B5D250B0: 0.5
     - Vector1_D4427E8: 3.1416
