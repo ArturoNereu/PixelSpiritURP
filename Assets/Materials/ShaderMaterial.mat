@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: b0dafbe503994954ebf16ad8dd0f3aa2,
+  m_Shader: {fileID: -6465566751694194690, guid: 672df0ac6128a4a48a5148fbfb8e5cd4,
     type: 3}
   m_ShaderKeywords: _WINDQUALITY_NONE
   m_LightmapFlags: 4
@@ -116,6 +116,7 @@ Material:
     - Color_95FE6E9E: {r: 0.94509804, g: 0.36862746, b: 0.13333334, a: 0}
     - Color_A8CACE02: {r: 1, g: 0.94509804, b: 0, a: 0}
     - Color_B09C2F0B: {r: 1, g: 0.94509804, b: 0, a: 0}
+    - Color_B74F33C4: {r: 0.4029299, g: 0.3500356, b: 0.5377358, a: 0}
     - Color_E96D855E: {r: 0.94509804, g: 0.36862746, b: 0.13333334, a: 0}
     - Vector2_47628E87: {r: 1, g: 1, b: 0, a: 0}
     - Vector2_F7B70259: {r: 1, g: 0.05, b: 0, a: 0}
